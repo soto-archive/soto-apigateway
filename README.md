@@ -4,7 +4,7 @@ An AWS apigateway type safe client for Swift (This is part of [aws-sdk-swift](ht
 
 ## Documentation
 
-Visit the aws-sdk-swift [documentation](http://htmlpreview.github.io/?https://github.com/noppoMan/aws-sdk-swift-doc/blob/master/docs/index.html) for instructions and browsing api references.
+Visit the aws-sdk-swift [documentation](http://htmlpreview.github.io/?https://github.com/noppoMan/aws-sdk-swift/gh-pages/index.html) for instructions and browsing api references.
 
 ## Installation
 
